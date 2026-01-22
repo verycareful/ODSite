@@ -1,0 +1,16 @@
+{
+    "name": "my-supabase-app",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@supabase/supabase-js": "^2.0.0",
+        "my-supabase-app": "file:",
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest"
+    }
+}
