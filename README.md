@@ -2,7 +2,7 @@
 
 A Next.js web application for managing OD (On-Duty) details, built with Supabase as the backend.
 
-> ⚠️ **Note:** This project is currently under development.
+> ⚠️ **Note:** This project is currently inactive. It was not pursued further due to a lack of proper institutional support, and the repository is now being made public.
 
 ## Tech Stack
 
@@ -81,4 +81,4 @@ This project is a work in progress. Contributions, issues, and feature requests 
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is available under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](LICENSE).
