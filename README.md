@@ -4,6 +4,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![License: Polyform NC](https://img.shields.io/badge/License-Polyform%20NC%201.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey?style=flat-square)](.)
+
 A Next.js web application for managing OD (On-Duty) details, built with Supabase as the backend.
 
 > ⚠️ **Note:** This project is currently inactive. It was not pursued further due to a lack of proper institutional support, and the repository is now being made public.
