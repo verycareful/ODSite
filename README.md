@@ -50,7 +50,7 @@ ODSite/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ODSite.git
+   git clone https://github.com/verycareful/ODSite.git
    cd ODSite
    ```
 
