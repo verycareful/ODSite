@@ -1,7 +1,13 @@
 # OD Site
+<!-- Language & framework -->
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Next.js](https://img.shields.io/badge/Next.js-15+-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-latest-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-latest-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+<!-- Backend -->
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![supabase-js](https://img.shields.io/badge/supabase--js-2.0+-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/supabase/supabase-js)
+<!-- Project -->
+[![Version](https://img.shields.io/badge/version-1.0.0-c8a96e?style=flat-square)](package.json)
 [![License: Polyform NC](https://img.shields.io/badge/License-Polyform%20NC%201.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey?style=flat-square)](.)
 
